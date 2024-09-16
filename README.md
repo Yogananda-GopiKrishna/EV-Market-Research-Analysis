@@ -49,12 +49,29 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 
 ## Dashboards:
 
-Home ![Background_img](https://github.com/user-attachments/assets/154da6bb-8219-473f-85bc-33f61686cec2)
-Statewise Analysis <img width="733" alt="StateWiseAnalysis" src="https://github.com/user-attachments/assets/530e220e-9a6c-4807-8ca6-6ecca31d712d">
-Revenue Analysis <img width="732" alt="RevenueAnalysis" src="https://github.com/user-attachments/assets/0973d057-f097-4dcb-ba24-00126360e7f3">
-Maker Analysis <img width="732" alt="MakerAnalysis" src="https://github.com/user-attachments/assets/eb8d119f-df68-4754-ba3c-7512ecec48a1">
-State Infra Analysis <img width="732" alt="StateInfraAnalysis" src="https://github.com/user-attachments/assets/ed995f95-c182-4657-afd8-98e595a2e5d1">
-ComparisionAnalysis<img width="733" alt="ComparisionAnalysis" src="https://github.com/user-attachments/assets/5bb514a9-aee3-423c-8429-db7ab0cd1abd">
+### Home 
+
+![Background_img](https://github.com/user-attachments/assets/154da6bb-8219-473f-85bc-33f61686cec2)
+
+### Statewise Analysis 
+
+<img width="733" alt="StateWiseAnalysis" src="https://github.com/user-attachments/assets/530e220e-9a6c-4807-8ca6-6ecca31d712d">
+
+### Revenue Analysis 
+
+<img width="732" alt="RevenueAnalysis" src="https://github.com/user-attachments/assets/0973d057-f097-4dcb-ba24-00126360e7f3">
+
+### Maker Analysis 
+
+<img width="732" alt="MakerAnalysis" src="https://github.com/user-attachments/assets/eb8d119f-df68-4754-ba3c-7512ecec48a1">
+
+### State Infra Analysis 
+
+<img width="732" alt="StateInfraAnalysis" src="https://github.com/user-attachments/assets/ed995f95-c182-4657-afd8-98e595a2e5d1">
+
+### ComparisionAnalysis
+
+<img width="733" alt="ComparisionAnalysis" src="https://github.com/user-attachments/assets/5bb514a9-aee3-423c-8429-db7ab0cd1abd">
 
 
 
